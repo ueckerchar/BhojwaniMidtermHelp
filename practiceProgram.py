@@ -38,7 +38,9 @@ keys and values from the dictionary '''
 
 
 '''using the bookings.csv file process only those 
-reservations for the same play (9587) 
+reservations for the same play (9587). Create an 
+instance of the Booking class for each customer
+that is going to play 9587 - Hamilton. 
 if the play reaches capacity print out a 
 error message as shown in output.JPG'''
 
